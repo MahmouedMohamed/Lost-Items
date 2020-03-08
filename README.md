@@ -8,4 +8,4 @@ The Following Program Contains:
 4-Ability to post an item
 5-Ability to select an item
 6-Ability to check with some questions if you are real owner of an item
-7-Ability to contact with item founder #6 is true
+7-Ability to contact with item founder if #6 is true
